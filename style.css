@@ -1,0 +1,54 @@
+@import url("https://fonts.googleapis.com/css2?family=Irish+Grover&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Averia+Serif+Libre:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Itim&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=IM+Fell+Great+Primer&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Caveat&display=swap");
+img {
+  max-width: 100%;
+}
+
+body {
+  margin: 0;
+  background-color: black;
+}
+
+h1 {
+  color: cyan;
+  text-align: center;
+  font-family: "Irish Grover", cursive;
+  font-size: 83px;
+  /*     top right botm left` */
+  margin: 0px 0px 0px 0px;
+}
+
+h2 {
+  color: white;
+  text-align: center;
+  font-family: "Averia Serif Libre", cursive;
+  font-size: 42px;
+  margin: 0px 0px 0px 0px;
+}
+
+h3 {
+  color: white;
+  text-align: center;
+  font-family: "Itim", cursive;
+  font-size: 25px;
+  margin: 40px 40px 40px 40px;
+}
+
+h4 {
+  color: white;
+  text-align: center;
+  font-family: "IM Fell Great Primer", serif;
+  font-size: 20px;
+  margin: 40px 40px 40px 40px;
+}
+
+h5 {
+  color: white;
+  text-align: center;
+  font-family: "Caveat", cursive;
+  font-size: 27px;
+  margin: 40px 40px 40px 40px;
+}
